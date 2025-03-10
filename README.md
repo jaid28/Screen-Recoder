@@ -2,12 +2,12 @@ Screen Recoder
 
 Libraries we used
 
-1. pyautogui
+a. pyautogui
    Helps to capture the screenshots
 
-2. opencv-python
+b. opencv-python
    OpenCV for video processing
 
-3. Numpy
+c. Numpy
   Numpy Converts image into numpy arrays
 
